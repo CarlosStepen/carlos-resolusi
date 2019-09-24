@@ -3,6 +3,7 @@ RENCANA KONTEN CARLOS
 java scrip
 *ES6
 *Framework Javascript
+Fundamental data strucktur data dasar
 php framework
 inter view 
 vlog

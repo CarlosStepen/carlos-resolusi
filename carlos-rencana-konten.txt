@@ -1,6 +1,8 @@
 RENCANA KONTEN CARLOS
 
 java scrip
+*ES6
+*Framework Javascript
 php framework
 inter view 
 vlog

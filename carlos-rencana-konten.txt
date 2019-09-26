@@ -5,6 +5,7 @@ java scrip
 *Framework Javascript
  *view
  *riec
+ *angular
 Fundamental data strucktur data dasar
 php framework
 *laravel
